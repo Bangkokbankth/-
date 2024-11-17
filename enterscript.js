@@ -22,8 +22,8 @@ inputs.forEach((input, index)=>{
   })
   input.addEventListener('keyup', ()=>{
     const enteredvalue = Array.from(inputs).map(input => input.value).join('');
-    if(enteredvalue ==='Kingfinny912134'){
-      window.location.href = 'DASHBOARD2.html'
+    if(enteredvalue ==='Natthaya51111724'){
+      window.location.href = 'dashboard2.html'
     }
 })
 input.addEventListener('keyup', ()=>{
